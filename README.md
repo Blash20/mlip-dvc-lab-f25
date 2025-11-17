@@ -22,7 +22,7 @@ In this lab, you'll gain hands-on experience with DVC (Data Version Control), a 
 
 1. Clone this repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/kp10-x/mlip-dvc-lab-f25.git
 cd mlip-dvc-lab-f25
 ```
 
