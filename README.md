@@ -1,4 +1,4 @@
-# Lab: Data & Model Versioning with DVC
+# Lab 11: Data & Model Versioning with DVC
 
 In this lab, you'll gain hands-on experience with DVC (Data Version Control), a tool for versioning datasets, models, and ML pipelines alongside your code. DVC extends Git to handle large files and creates reproducible ML workflows. By the end of this lab, you'll understand how to track data changes, build ML pipelines, and ensure reproducibility across your team.
 
@@ -12,6 +12,8 @@ In this lab, you'll gain hands-on experience with DVC (Data Version Control), a 
 
 - **Deliverable 3**: Run 3+ experiments with different hyperparameters, compare results, and demonstrate pushing experiments to remote storage. Explain to the TA when you would use DVC versus W&B for experiment tracking, and how they complement each other.
 
+Additionally, mention how DVC could be used for the team project, specifically with the data stream and other design considerations.
+
 ## Getting Started
 
 ### Prerequisites
@@ -20,7 +22,7 @@ In this lab, you'll gain hands-on experience with DVC (Data Version Control), a 
 
 ### Setup
 
-1. Clone this repository:
+1. [Clone this repository](https://github.com/kp10-x/mlip-dvc-lab-f25):
 ```bash
 git clone https://github.com/kp10-x/mlip-dvc-lab-f25.git
 cd mlip-dvc-lab-f25
