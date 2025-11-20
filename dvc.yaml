@@ -31,4 +31,4 @@ stages:
       - models/classifier.pkl
     metrics:
       - metrics/scores.json:
-          cache: true
+          cache: false
