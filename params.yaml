@@ -4,7 +4,7 @@ preprocess:
 
 train:
   n_estimators: 20
-  max_depth: 4
+  max_depth: 2
   random_state: 42
   # TODO: Fill in hyperparameters
 
