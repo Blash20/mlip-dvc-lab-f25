@@ -7,12 +7,12 @@ from pathlib import Path
 # TODO: For Part 2 (pipeline) load hyperparameters from params.yaml
 
 # TODO: Fill in hyperparameters
-n_estimators = None
-max_depth = None
-random_state = None
+n_estimators = 5
+max_depth = 10
+random_state = 3
 
 # TODO: Set the data path (different for Part 1 vs Part 2)
-data_path = None
+data_path = "./data/raw/data.csv"
 
 df = pd.read_csv(data_path)
 
